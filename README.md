@@ -71,8 +71,10 @@ Except there's more than that.  Obviously you have played NoMoreMoney by now.  D
 
 Theres not enough gold, and you need to find stuff that can be used as gold.  That sort of seems like you have some sort of magic touch, to convert things into gold.  Like a Curse of Greed or some sort of Draught of Midas.  3's pop up again as an important number.
 
-This all seems familiar again.  Are you still not convinced?
+This all seems familiar again.  And to top it all off...
+
 <img width="206" height="318" alt="image" src="https://github.com/user-attachments/assets/6addd4b2-1905-41a8-98e4-7482a0c9aa38" />
+
 This is a reference to NoMoreMoney.  It's just a dollar sign and a down arrow.
 
 So is NoMoreMoney Magick?  Diamonds are the Magick symbol, after all.  I think Greed and Magick seem expressly related, and this fits.
