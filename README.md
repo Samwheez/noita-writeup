@@ -310,6 +310,7 @@ Are the eyes real?  Should we start touching grass, or should we search for the 
 That is the trick.  This is the slow pan out at the end of "The Holy Mountain."  You can go wherever you want, do whatever you want, yet you chose to work on a math project.  Or maybe you've spent the time on yourself. On the path to true knowledge; many of us have learned a lot.  Does it really matter if it is real?  Are you not entertained?
 
 I choose the pursuit.  I like the idea of some missing link.  So much so that I wrote all this garbage.  After all, 
+
 ```True knowledge is a slippery thing. The unfortunate side effects of our divine stone.```
 
 - Sam
