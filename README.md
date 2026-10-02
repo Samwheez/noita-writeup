@@ -278,6 +278,7 @@ The meditation cube is actually referencing the game itself, similar to the Holy
 Petri is known to have made a few "secret" card games.
 
 <img width="544" height="729" alt="image" src="https://github.com/user-attachments/assets/d234a40f-4640-4e98-8b72-51a0b731f7bb" />
+
 This might be referencing Nature with eggs from NoMoreMeat, Magick as a diamond for greed, and then the possible "secret" card game as i's
 
 Nukes are a reference to another card game Petri made, but I don't think it is relevant
