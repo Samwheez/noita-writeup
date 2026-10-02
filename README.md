@@ -17,8 +17,22 @@ In Reality, it was a game about lifestyles, moral superiority, life, and death.
 ```
 The goal is to reach 10 karma points and achieve moral superiority over the other players. You do this by not eating the foods you're restricted from eating and trying to get other players to eat their forbidden foods, while also avoiding death from starvation.
 ```
+Okay, in actual reality, you should read the rules and play the game once or twice with 2 friends.  Seriously, it's actually a blast and it turns out good gamedev-isms transfer between media.  As a bonus, it'll help you understand the completely ridiculous justifications coming up. 
 
+This card game is Nature.
+```
+The midsummer's loon flew over a swamp
+and landed at the base of a great tree. The
+water bird laid three eggs. The first egg rolled from
+the nest and cracked. Blood flowed from the crack
+for seven days and seven nights. From the blood
+life and death were formed.
+```
+One thing always bugged me about this; what came before Nature?  It almost feels like Nature made a world inside of a world.  From its blood, *life* and *death* were formed.  Those are not just small things, those are **the** forces of Nature.  The game references Nature everywhere, from the importance of eggs to the importance of the number 3.  The dark moon is an egg, and something has clearly hatch from its blood.  There are 3 eggs, 3 eyes, a 3 inside the magic circle, one must count to three before tossing a holy hand grenade.
+```
 
+```
+You did play the game right?  If you haven't, this is your last chance.  The pans explode and do some weird action with some cards, right?  How many eggs needs to be in a pan for it to get shuffled?  After you read 3 eyes, some shuffle action gets performed.  
 
 Technology is the game.  And it is the god of Noita.  The "Magic" in the game isn't real, it was made.  Made by the Devs, through hard work.  Through lots of time, money, sanity.
 
@@ -48,6 +62,13 @@ money and your sanity.
 ```
 
 ### True ending?
-Petri is trolling us.  He is a magician, after all.  He would never reveal the true secret; it would ruin the trick.  He wants you to get invested in something he has made, like he has to so many movies and games.  
+Petri is trolling us.  He is a magician, after all.  He would never reveal the true secret; it would ruin the trick.  He wants you to get invested in something he has made, like he has to so many movies and games.
+
 Are the eyes real?  Should we start touching grass, or should we search for the truth?  Is this all just alchemy?  Is it magick?  Maybe the work to be completed is just the pursuit of true knowledge.  You are invested, are you not?  If you've made it this far, you clearly are enjoying the search.
-That is the trick.  This is the slow pan out at the end of "The Holy Mountain."  You can go wherever you want, do whatever you want, yet you chose to work on a math project.  Or maybe you've spent the time on yourself. On the path to true knowledge, many of us have learned a lot.  
+
+That is the trick.  This is the slow pan out at the end of "The Holy Mountain."  You can go wherever you want, do whatever you want, yet you chose to work on a math project.  Or maybe you've spent the time on yourself. On the path to true knowledge, many of us have learned a lot.  Does it really matter if it is real?  Are you not entertained?
+
+I choose the pursuit.  I like the idea of some missing link, or some major breakthrough that ends up collapsing into a hundred others.  After all, 
+```True knowledge is a slippery thing. The unfortunate side effects of our divine stone.```
+
+- Sam
