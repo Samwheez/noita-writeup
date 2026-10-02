@@ -71,7 +71,9 @@ Much of the game references greed, and gold, as a nefarious unending thing.  Alc
 
 Except there's more than that.  Obviously you have played NoMoreMoney by now.  Did you notice anything interesting about the game?
 
-Theres not enough gold, and you need to find stuff that can be used as gold.  That sort of seems like you have some sort of magic touch, to convert things into gold.  Like a Curse of Greed or some sort of Draught of Midas.  3's pop up again as an important number.
+Theres not enough gold in the base game components, and the rules suggest you need to improvise and find other stuff that can be used as gold.  Sort of like transmuting things into gold.  
+
+That sort of seems like you have some sort of magic touch, to convert things into gold.  Like a Curse of Greed or some sort of Draught of Midas.  3's pop up again as an important number.
 
 This all seems familiar again.  And to top it all off...
 
