@@ -43,13 +43,11 @@ X days and X nights passed X times. Nature worked by itself. It
 looked at its creations and was satisfied with them.
 There was harmony in the world.
 ```
-One thing always bugged me about this; what came before Nature?  It almost feels like Nature made a world inside of a world.  From its blood, *life* and *death* were formed.  Those are not just small things, those are **the** forces of Nature.  The game references Nature everywhere, from the importance of eggs to the importance of the number 3.  The dark moon is an egg, and something has clearly hatched from its blood.
+One thing always bugged me about this; what came before Nature?  It almost feels like Nature made a world inside of a world.  From its blood, *life* and *death* were formed.  Those are not just small things, those are **the** forces of Nature.  The game references Nature everywhere, from the importance of eggs to the importance of the number 3.  The dark moon is an egg, and something has clearly hatched from its blood.  The Moon is made of cheese, and is an egg.  It unlocks when you bring 4 essences to it.  The gods are confused. or even angry if you bring Gourd Kolmi.
 
 The references don't just stop there.  Tons of references exist for the Dev's other games.  The E.S.A. symbol, the Baba is You images in the data, the Swapper spell, and more.  There are references to other media as well, like the Holy Hand Grenade text, Spelunky gold, the Holy Mountain, the Kalevala, Hitchhiker's Guide, and so on.  It would make sense for there to be some references to Petri's old games, right?
 
 You did play the card games right?  If you haven't, this is your last chance.  The karma system and lifestyles in NoMoreMeat are sort of like referencing life and death.  Obviously, starving references death.  There are 3 pans, and each pan can hold 3 foods.  After 3 foods are put in a pan, the next food shuffles.  Of these foods, Fish and Eggs are commonly referenced in Noita.  There's a surprising amount of food in Noita.  Some foods give good effects, or even heal in Noita.  The gourd seemingly has the power to change Kolmi to a Natural creature.  Kolmi is also associated with death frequently throughout the game.
-
-The Moon is made of cheese, and is an egg.  It unlocks when you bring 4 essences to it.  The gods are confused if you bring Gourd Kolmi as well.  You would be confused too if your world didn't even *have* gourds and Gourd Kolmi showed up.
 
 This all seems rather familiar...
 
